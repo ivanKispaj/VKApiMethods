@@ -12,4 +12,4 @@ let userId = "ID of the user for whom the request is being made" //String
 
 let url = VKApiMethods.getUserInfo( token: token, userId: userId ).absoluteURL
 ```
-***.absoluteURL*** _Optional type returns URL or nil
+***.absoluteURL*** _Optional type returns URL or nil_
